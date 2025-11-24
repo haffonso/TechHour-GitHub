@@ -22,6 +22,7 @@
 			"@id":"Dimensions('ACO.M.300.Despesas')"
 		}
 	],
+	"Rules@Code.link":"ACO.300.Despesas.rules",
 	"Views@Code.links":
 	[
 		"ACO.300.Despesas.views/Default.json",
