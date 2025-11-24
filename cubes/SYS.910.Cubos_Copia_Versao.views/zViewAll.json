@@ -1,0 +1,32 @@
+{
+	"@type":"NativeView",
+	"Name":"zViewAll",
+	"Columns":[],
+	"Rows":
+	[
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('}Cubes')/Hierarchies('}Cubes')"
+				},
+				"Expression":"TM1SubsetAll([}Cubes])"
+			}
+		},
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('SYS.M.910.Cubos_Copia_Versao')/Hierarchies('SYS.M.910.Cubos_Copia_Versao')"
+				},
+				"Expression":"TM1SubsetAll([SYS.M.910.Cubos_Copia_Versao])"
+			}
+		}
+	],
+	"Titles":[],
+	"SuppressEmptyColumns":false,
+	"SuppressEmptyRows":false,
+	"FormatString":"0.00"
+}

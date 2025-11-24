@@ -1,0 +1,60 @@
+{
+	"@type":"Hierarchy",
+	"Name":"MAP.M.020.Conta_Contabil",
+	"Elements":
+	[
+		{
+			"Name":"Descrição",
+			"Type":"String"
+		},
+		{
+			"Name":"Cód Nível 1",
+			"Type":"String"
+		},
+		{
+			"Name":"Desc Nível 1",
+			"Type":"String"
+		},
+		{
+			"Name":"Cód Nível 2",
+			"Type":"String"
+		},
+		{
+			"Name":"Desc Nível 2",
+			"Type":"String"
+		},
+		{
+			"Name":"Cód Nível 3",
+			"Type":"String"
+		},
+		{
+			"Name":"Desc Nível 3",
+			"Type":"String"
+		},
+		{
+			"Name":"Cód Nível 4",
+			"Type":"String"
+		},
+		{
+			"Name":"Desc Nível 4",
+			"Type":"String"
+		},
+		{
+			"Name":"Cód Nível 5",
+			"Type":"String"
+		},
+		{
+			"Name":"Desc Nível 5",
+			"Type":"String"
+		},
+		{
+			"Name":"Data Atualização",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"MAP.M.020.Conta_Contabil.subsets/Default.json",
+		"MAP.M.020.Conta_Contabil.subsets/}Bedrock.Cube.Data.ExportToFile.27054.json"
+	]
+}

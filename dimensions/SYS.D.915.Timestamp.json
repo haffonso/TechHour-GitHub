@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"SYS.D.915.Timestamp",
+	"Hierarchies@Code.links":
+	[
+		"SYS.D.915.Timestamp.hierarchies/SYS.D.915.Timestamp.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('SYS.D.915.Timestamp')/Hierarchies('SYS.D.915.Timestamp')"
+	}
+}

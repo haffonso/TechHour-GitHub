@@ -1,0 +1,68 @@
+{
+	"@type":"Hierarchy",
+	"Name":"SYS.M.900.Parametros_Copia_Versao",
+	"Elements":
+	[
+		{
+			"Name":"CaminhoArqRejeitados",
+			"Type":"String"
+		},
+		{
+			"Name":"CaminhoArqSemaforo",
+			"Type":"String"
+		},
+		{
+			"Name":"CaminhoArqExport",
+			"Type":"String"
+		},
+		{
+			"Name":"CaminhoArqStatus",
+			"Type":"String"
+		},
+		{
+			"Name":"CaminhoArqLog",
+			"Type":"String"
+		},
+		{
+			"Name":"Versão Origem",
+			"Type":"String"
+		},
+		{
+			"Name":"Versão Destino",
+			"Type":"String"
+		},
+		{
+			"Name":"Período Início",
+			"Type":"String"
+		},
+		{
+			"Name":"Período Fim",
+			"Type":"String"
+		},
+		{
+			"Name":"Qtd Meses",
+			"Type":"String"
+		},
+		{
+			"Name":"Considerar Regras",
+			"Type":"String"
+		},
+		{
+			"Name":"Qtd Threads",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Tipo Cópia",
+			"Type":"String"
+		},
+		{
+			"Name":"Status",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"SYS.M.900.Parametros_Copia_Versao.subsets/Default.json",
+		"SYS.M.900.Parametros_Copia_Versao.subsets/Padrão.json"
+	]
+}

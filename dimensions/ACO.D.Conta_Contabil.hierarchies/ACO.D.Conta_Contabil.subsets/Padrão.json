@@ -1,0 +1,47 @@
+{
+	"@type":"Subset",
+	"Name":"Padrão",
+	"Alias":"Código e Descrição",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('ACO.D.Conta_Contabil')/Hierarchies('ACO.D.Conta_Contabil')/Elements('Total Contas Contábeis')"
+		},
+		{
+			"@id":"Dimensions('ACO.D.Conta_Contabil')/Hierarchies('ACO.D.Conta_Contabil')/Elements('01')"
+		},
+		{
+			"@id":"Dimensions('ACO.D.Conta_Contabil')/Hierarchies('ACO.D.Conta_Contabil')/Elements('02')"
+		},
+		{
+			"@id":"Dimensions('ACO.D.Conta_Contabil')/Hierarchies('ACO.D.Conta_Contabil')/Elements('03')"
+		},
+		{
+			"@id":"Dimensions('ACO.D.Conta_Contabil')/Hierarchies('ACO.D.Conta_Contabil')/Elements('04')"
+		},
+		{
+			"@id":"Dimensions('ACO.D.Conta_Contabil')/Hierarchies('ACO.D.Conta_Contabil')/Elements('05')"
+		},
+		{
+			"@id":"Dimensions('ACO.D.Conta_Contabil')/Hierarchies('ACO.D.Conta_Contabil')/Elements('06')"
+		},
+		{
+			"@id":"Dimensions('ACO.D.Conta_Contabil')/Hierarchies('ACO.D.Conta_Contabil')/Elements('07')"
+		},
+		{
+			"@id":"Dimensions('ACO.D.Conta_Contabil')/Hierarchies('ACO.D.Conta_Contabil')/Elements('08')"
+		},
+		{
+			"@id":"Dimensions('ACO.D.Conta_Contabil')/Hierarchies('ACO.D.Conta_Contabil')/Elements('09')"
+		},
+		{
+			"@id":"Dimensions('ACO.D.Conta_Contabil')/Hierarchies('ACO.D.Conta_Contabil')/Elements('10')"
+		},
+		{
+			"@id":"Dimensions('ACO.D.Conta_Contabil')/Hierarchies('ACO.D.Conta_Contabil')/Elements('11')"
+		},
+		{
+			"@id":"Dimensions('ACO.D.Conta_Contabil')/Hierarchies('ACO.D.Conta_Contabil')/Elements('12')"
+		}
+	]
+}

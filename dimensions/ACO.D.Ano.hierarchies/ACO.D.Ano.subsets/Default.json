@@ -1,0 +1,19 @@
+{
+	"@type":"Subset",
+	"Name":"Default",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('ACO.D.Ano')/Hierarchies('ACO.D.Ano')/Elements('Total Anos')"
+		},
+		{
+			"@id":"Dimensions('ACO.D.Ano')/Hierarchies('ACO.D.Ano')/Elements('2015')"
+		},
+		{
+			"@id":"Dimensions('ACO.D.Ano')/Hierarchies('ACO.D.Ano')/Elements('2016')"
+		},
+		{
+			"@id":"Dimensions('ACO.D.Ano')/Hierarchies('ACO.D.Ano')/Elements('2017')"
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"@type":"Cube",
+	"Name":"MAP.020.Conta_Contabil",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('MAP.D.020.Conta_Contabil')"
+		},
+		{
+			"@id":"Dimensions('MAP.M.020.Conta_Contabil')"
+		}
+	],
+	"Views@Code.links":
+	[
+		"MAP.020.Conta_Contabil.views/Default.json",
+		"MAP.020.Conta_Contabil.views/Padrão.json"
+	]
+}

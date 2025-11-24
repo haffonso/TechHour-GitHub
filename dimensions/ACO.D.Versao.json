@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"ACO.D.Versao",
+	"Hierarchies@Code.links":
+	[
+		"ACO.D.Versao.hierarchies/ACO.D.Versao.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('ACO.D.Versao')/Hierarchies('ACO.D.Versao')"
+	}
+}

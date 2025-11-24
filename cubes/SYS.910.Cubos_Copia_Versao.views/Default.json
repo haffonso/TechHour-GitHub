@@ -1,0 +1,30 @@
+{
+	"@type":"NativeView",
+	"Name":"Default",
+	"Columns":
+	[
+		{
+			"Subset":
+			{
+				"@id":"Dimensions('SYS.M.910.Cubos_Copia_Versao')/Hierarchies('SYS.M.910.Cubos_Copia_Versao')/Subsets('Default')"
+			}
+		}
+	],
+	"Rows":
+	[
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('}Cubes')/Hierarchies('}Cubes')"
+				},
+				"Expression":"TM1SubsetAll([}Cubes])"
+			}
+		}
+	],
+	"Titles":[],
+	"SuppressEmptyColumns":false,
+	"SuppressEmptyRows":false,
+	"FormatString":"0.#########"
+}

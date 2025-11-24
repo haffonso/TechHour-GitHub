@@ -1,0 +1,65 @@
+{
+	"@type":"NativeView",
+	"Name":"Padrão",
+	"Columns":
+	[
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('MAP.M.010.Centro_Custo')/Hierarchies('MAP.M.010.Centro_Custo')"
+				},
+				"Elements":
+				[
+					{
+						"@id":"Dimensions('MAP.M.010.Centro_Custo')/Hierarchies('MAP.M.010.Centro_Custo')/Elements('Descrição')"
+					},
+					{
+						"@id":"Dimensions('MAP.M.010.Centro_Custo')/Hierarchies('MAP.M.010.Centro_Custo')/Elements('Cód Nível 1')"
+					},
+					{
+						"@id":"Dimensions('MAP.M.010.Centro_Custo')/Hierarchies('MAP.M.010.Centro_Custo')/Elements('Desc Nível 1')"
+					},
+					{
+						"@id":"Dimensions('MAP.M.010.Centro_Custo')/Hierarchies('MAP.M.010.Centro_Custo')/Elements('Cód Nível 2')"
+					},
+					{
+						"@id":"Dimensions('MAP.M.010.Centro_Custo')/Hierarchies('MAP.M.010.Centro_Custo')/Elements('Desc Nível 2')"
+					},
+					{
+						"@id":"Dimensions('MAP.M.010.Centro_Custo')/Hierarchies('MAP.M.010.Centro_Custo')/Elements('Cód Nível 3')"
+					},
+					{
+						"@id":"Dimensions('MAP.M.010.Centro_Custo')/Hierarchies('MAP.M.010.Centro_Custo')/Elements('Desc Nível 3')"
+					},
+					{
+						"@id":"Dimensions('MAP.M.010.Centro_Custo')/Hierarchies('MAP.M.010.Centro_Custo')/Elements('Cód Nível 4')"
+					},
+					{
+						"@id":"Dimensions('MAP.M.010.Centro_Custo')/Hierarchies('MAP.M.010.Centro_Custo')/Elements('Desc Nível 4')"
+					},
+					{
+						"@id":"Dimensions('MAP.M.010.Centro_Custo')/Hierarchies('MAP.M.010.Centro_Custo')/Elements('Cód Nível 5')"
+					},
+					{
+						"@id":"Dimensions('MAP.M.010.Centro_Custo')/Hierarchies('MAP.M.010.Centro_Custo')/Elements('Desc Nível 5')"
+					}
+				]
+			}
+		}
+	],
+	"Rows":
+	[
+		{
+			"Subset":
+			{
+				"@id":"Dimensions('MAP.D.010.Centro_Custo')/Hierarchies('MAP.D.010.Centro_Custo')/Subsets('SYS.Todos')"
+			}
+		}
+	],
+	"Titles":[],
+	"SuppressEmptyColumns":false,
+	"SuppressEmptyRows":false,
+	"FormatString":"0.#########"
+}

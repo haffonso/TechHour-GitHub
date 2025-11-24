@@ -1,0 +1,26 @@
+{
+	"@type":"NativeView",
+	"Name":"Default",
+	"Columns":
+	[
+		{
+			"Subset":
+			{
+				"@id":"Dimensions('SYS.D.900.Valor')/Hierarchies('SYS.D.900.Valor')/Subsets('Default')"
+			}
+		}
+	],
+	"Rows":
+	[
+		{
+			"Subset":
+			{
+				"@id":"Dimensions('SYS.M.900.Parametros_Copia_Versao')/Hierarchies('SYS.M.900.Parametros_Copia_Versao')/Subsets('Default')"
+			}
+		}
+	],
+	"Titles":[],
+	"SuppressEmptyColumns":false,
+	"SuppressEmptyRows":false,
+	"FormatString":"0.#########"
+}

@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"ACO.D.Conta_Contabil_Gerencial",
+	"Hierarchies@Code.links":
+	[
+		"ACO.D.Conta_Contabil_Gerencial.hierarchies/ACO.D.Conta_Contabil_Gerencial.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('ACO.D.Conta_Contabil_Gerencial')/Hierarchies('ACO.D.Conta_Contabil_Gerencial')"
+	}
+}

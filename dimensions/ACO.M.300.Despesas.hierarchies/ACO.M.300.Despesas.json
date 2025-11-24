@@ -1,0 +1,23 @@
+{
+	"@type":"Hierarchy",
+	"Name":"ACO.M.300.Despesas",
+	"Elements":
+	[
+		{
+			"Name":"Valor Despesas",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Tipo Input",
+			"Type":"String"
+		},
+		{
+			"Name":"Justificativa",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"ACO.M.300.Despesas.subsets/Default.json"
+	]
+}

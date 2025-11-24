@@ -1,0 +1,46 @@
+{
+	"@type":"NativeView",
+	"Name":"Padrão",
+	"Columns":
+	[
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('SYS.M.915.Registro_Copia_Versao')/Hierarchies('SYS.M.915.Registro_Copia_Versao')"
+				},
+				"Expression":"TM1SubsetAll([SYS.M.915.Registro_Copia_Versao])"
+			}
+		}
+	],
+	"Rows":
+	[
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('}Cubes')/Hierarchies('}Cubes')"
+				},
+				"Expression":"TM1SubsetAll([}Cubes])"
+			}
+		}
+	],
+	"Titles":
+	[
+		{
+			"Subset":
+			{
+				"@id":"Dimensions('SYS.D.915.Timestamp')/Hierarchies('SYS.D.915.Timestamp')/Subsets('Default')"
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('SYS.D.915.Timestamp')/Hierarchies('SYS.D.915.Timestamp')/Elements('Cópia Atual')"
+			}
+		}
+	],
+	"SuppressEmptyColumns":true,
+	"SuppressEmptyRows":true,
+	"FormatString":"0.#########"
+}

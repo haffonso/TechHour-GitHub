@@ -1,0 +1,20 @@
+{
+	"@type":"Hierarchy",
+	"Name":"ACO.M.200.Despesas",
+	"Elements":
+	[
+		{
+			"Name":"Valor Despesas",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"ACO.M.200.Despesas.subsets/Default.json",
+		"ACO.M.200.Despesas.subsets/processo.CUB.100.Carrega_ACO.300.Despesas.Leitura.2017-03-09 11h20m02s.json",
+		"ACO.M.200.Despesas.subsets/processo.CUB.100.Carrega_ACO.300.Despesas.Leitura.2017-03-09 11h25m25s.json",
+		"ACO.M.200.Despesas.subsets/processo.CUB.100.Carrega_ACO.300.Despesas.Leitura.2017-03-09 11h31m06s.json",
+		"ACO.M.200.Despesas.subsets/processo.CUB.100.Carrega_ACO.300.Despesas.Leitura.2017-03-09 11h31m41s.json",
+		"ACO.M.200.Despesas.subsets/processo.CUB.100.Carrega_ACO.300.Despesas.Leitura.2017-03-09 11h32m00s.json"
+	]
+}

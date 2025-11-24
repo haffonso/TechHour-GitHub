@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"Default",
+	"Alias":"Código e Descrição",
+	"Expression":"TM1SubsetAll([ACO.D.Conta_Contabil_Gerencial])"
+}

@@ -1,0 +1,33 @@
+{
+	"@type":"Cube",
+	"Name":"ACO.200.Despesas",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('ACO.D.Ano')"
+		},
+		{
+			"@id":"Dimensions('ACO.D.Mes')"
+		},
+		{
+			"@id":"Dimensions('ACO.D.Versao')"
+		},
+		{
+			"@id":"Dimensions('ACO.D.Conta_Contabil')"
+		},
+		{
+			"@id":"Dimensions('ACO.D.Centro_Custo')"
+		},
+		{
+			"@id":"Dimensions('ACO.M.200.Despesas')"
+		}
+	],
+	"Rules@Code.link":"ACO.200.Despesas.rules",
+	"Views@Code.links":
+	[
+		"ACO.200.Despesas.views/Default.json",
+		"ACO.200.Despesas.views/Padrão.json",
+		"ACO.200.Despesas.views/ViewOrdenada.json",
+		"ACO.200.Despesas.views/zViewAll.json"
+	]
+}

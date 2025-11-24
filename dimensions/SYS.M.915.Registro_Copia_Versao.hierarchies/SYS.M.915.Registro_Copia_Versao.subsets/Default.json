@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"Default",
+	"Alias":"Descrição",
+	"Expression":"TM1SubsetAll([SYS.M.915.Registro_Copia_Versao])"
+}

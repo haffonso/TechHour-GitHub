@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"ACO.D.Centro_Custo",
+	"Hierarchies@Code.links":
+	[
+		"ACO.D.Centro_Custo.hierarchies/ACO.D.Centro_Custo.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('ACO.D.Centro_Custo')/Hierarchies('ACO.D.Centro_Custo')"
+	}
+}

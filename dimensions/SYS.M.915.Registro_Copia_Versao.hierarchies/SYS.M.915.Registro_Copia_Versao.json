@@ -1,0 +1,60 @@
+{
+	"@type":"Hierarchy",
+	"Name":"SYS.M.915.Registro_Copia_Versao",
+	"Elements":
+	[
+		{
+			"Name":"Status",
+			"Type":"String"
+		},
+		{
+			"Name":"DataHoraInicio",
+			"Type":"String"
+		},
+		{
+			"Name":"DataHoraFim",
+			"Type":"String"
+		},
+		{
+			"Name":"Tempo Cópia",
+			"Type":"String"
+		},
+		{
+			"Name":"Qtd Threads",
+			"Type":"String"
+		},
+		{
+			"Name":"Mensagem",
+			"Type":"String"
+		},
+		{
+			"Name":"Versão Origem",
+			"Type":"String"
+		},
+		{
+			"Name":"Versão Destino",
+			"Type":"String"
+		},
+		{
+			"Name":"Período Cópia",
+			"Type":"String"
+		},
+		{
+			"Name":"Cópia Com Regras",
+			"Type":"String"
+		},
+		{
+			"Name":"Tipo Cópia",
+			"Type":"String"
+		},
+		{
+			"Name":"Usuário",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"SYS.M.915.Registro_Copia_Versao.subsets/Default.json",
+		"SYS.M.915.Registro_Copia_Versao.subsets/Padrão.json"
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"SYS - Versões de Trabalho",
+	"Alias":"Descrição",
+	"Expression":"{TM1FILTERBYPATTERN( {TM1SORT( {TM1SUBSETALL( [ACO.D.Versao] )}, ASC)}, \"T*\")}"
+}

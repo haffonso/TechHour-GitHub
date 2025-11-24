@@ -1,0 +1,21 @@
+{
+	"@type":"Process",
+	"Name":"QUBEdocs Create Package",
+	"HasSecurityAccess":true,
+	"Code@Code.link":"QUBEdocs Create Package.ti",
+	"UIData":"CubeAction=1511\fDataAction=1503\fCubeLogChanges=0\f",
+	"DataSource":
+	{
+		"Type":"None"
+	},
+	"Parameters":
+	[
+		{
+			"Name":"pDestFolder",
+			"Prompt":"Output Folder?",
+			"Value":".\\",
+			"Type":"String"
+		}
+	],
+	"Variables":[]
+}

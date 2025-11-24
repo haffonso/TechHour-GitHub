@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"}Bedrock.Cube.Data.ExportToFile.27054",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('MAP.M.020.Conta_Contabil')/Hierarchies('MAP.M.020.Conta_Contabil')/Elements('Descrição')"
+		}
+	]
+}

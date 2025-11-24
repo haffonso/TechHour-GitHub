@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"SYS - Todos do Nível 0",
+	"Expression":"{TM1FILTERBYLEVEL( {TM1SORT( {TM1SUBSETALL( [ACO.D.Ano] )}, ASC)}, 0)}"
+}

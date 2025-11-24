@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"MAP.D.010.Centro_Custo",
+	"Hierarchies@Code.links":
+	[
+		"MAP.D.010.Centro_Custo.hierarchies/MAP.D.010.Centro_Custo.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('MAP.D.010.Centro_Custo')/Hierarchies('MAP.D.010.Centro_Custo')"
+	}
+}

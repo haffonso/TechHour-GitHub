@@ -1,0 +1,30 @@
+{
+	"@type":"NativeView",
+	"Name":"Default",
+	"Columns":
+	[
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('MAP.M.020.Conta_Contabil')/Hierarchies('MAP.M.020.Conta_Contabil')"
+				},
+				"Expression":"TM1SubsetAll([MAP.M.020.Conta_Contabil])"
+			}
+		}
+	],
+	"Rows":
+	[
+		{
+			"Subset":
+			{
+				"@id":"Dimensions('MAP.D.020.Conta_Contabil')/Hierarchies('MAP.D.020.Conta_Contabil')/Subsets('SYS.Todos')"
+			}
+		}
+	],
+	"Titles":[],
+	"SuppressEmptyColumns":true,
+	"SuppressEmptyRows":true,
+	"FormatString":"0.#########"
+}

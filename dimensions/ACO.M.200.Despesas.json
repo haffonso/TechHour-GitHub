@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"ACO.M.200.Despesas",
+	"Hierarchies@Code.links":
+	[
+		"ACO.M.200.Despesas.hierarchies/ACO.M.200.Despesas.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('ACO.M.200.Despesas')/Hierarchies('ACO.M.200.Despesas')"
+	}
+}

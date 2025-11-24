@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"Default",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('ACO.M.300.Despesas')/Hierarchies('ACO.M.300.Despesas')/Elements('Valor Despesas')"
+		}
+	]
+}

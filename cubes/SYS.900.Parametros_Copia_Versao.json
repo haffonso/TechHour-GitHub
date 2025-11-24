@@ -1,0 +1,20 @@
+{
+	"@type":"Cube",
+	"Name":"SYS.900.Parametros_Copia_Versao",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('SYS.D.900.Valor')"
+		},
+		{
+			"@id":"Dimensions('SYS.M.900.Parametros_Copia_Versao')"
+		}
+	],
+	"Rules@Code.link":"SYS.900.Parametros_Copia_Versao.rules",
+	"Views@Code.links":
+	[
+		"SYS.900.Parametros_Copia_Versao.views/Default.json",
+		"SYS.900.Parametros_Copia_Versao.views/Padrão.json",
+		"SYS.900.Parametros_Copia_Versao.views/SYS.Applications.Parametros_Copia.json"
+	]
+}

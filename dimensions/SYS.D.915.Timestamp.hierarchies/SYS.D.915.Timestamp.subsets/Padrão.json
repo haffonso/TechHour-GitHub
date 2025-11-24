@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"Padrão",
+	"Expression":"TM1SubsetAll([SYS.D.915.Timestamp])"
+}

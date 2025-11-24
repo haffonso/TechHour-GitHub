@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"MAP.M.020.Conta_Contabil",
+	"Hierarchies@Code.links":
+	[
+		"MAP.M.020.Conta_Contabil.hierarchies/MAP.M.020.Conta_Contabil.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('MAP.M.020.Conta_Contabil')/Hierarchies('MAP.M.020.Conta_Contabil')"
+	}
+}

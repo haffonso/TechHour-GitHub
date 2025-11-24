@@ -1,0 +1,22 @@
+{
+	"@type":"Cube",
+	"Name":"SYS.915.Registro_Copia_Versao",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('}Cubes')"
+		},
+		{
+			"@id":"Dimensions('SYS.D.915.Timestamp')"
+		},
+		{
+			"@id":"Dimensions('SYS.M.915.Registro_Copia_Versao')"
+		}
+	],
+	"Views@Code.links":
+	[
+		"SYS.915.Registro_Copia_Versao.views/Default.json",
+		"SYS.915.Registro_Copia_Versao.views/Padrão.json",
+		"SYS.915.Registro_Copia_Versao.views/SYS.Applications.Registro_Copia.json"
+	]
+}

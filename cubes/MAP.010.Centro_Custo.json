@@ -1,0 +1,18 @@
+{
+	"@type":"Cube",
+	"Name":"MAP.010.Centro_Custo",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('MAP.D.010.Centro_Custo')"
+		},
+		{
+			"@id":"Dimensions('MAP.M.010.Centro_Custo')"
+		}
+	],
+	"Views@Code.links":
+	[
+		"MAP.010.Centro_Custo.views/Default.json",
+		"MAP.010.Centro_Custo.views/Padrão.json"
+	]
+}

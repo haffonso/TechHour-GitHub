@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"SYS.Todos",
+	"Expression":"{TM1SORT( {TM1SUBSETALL( [MAP.D.010.Centro_Custo] )}, ASC)}"
+}

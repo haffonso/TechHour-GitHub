@@ -1,0 +1,21 @@
+{
+	"@type":"Cube",
+	"Name":"SYS.910.Cubos_Copia_Versao",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('}Cubes')"
+		},
+		{
+			"@id":"Dimensions('SYS.M.910.Cubos_Copia_Versao')"
+		}
+	],
+	"Rules@Code.link":"SYS.910.Cubos_Copia_Versao.rules",
+	"Views@Code.links":
+	[
+		"SYS.910.Cubos_Copia_Versao.views/Default.json",
+		"SYS.910.Cubos_Copia_Versao.views/Padrão.json",
+		"SYS.910.Cubos_Copia_Versao.views/SYS.Applications.Parametros_Cubos.json",
+		"SYS.910.Cubos_Copia_Versao.views/zViewAll.json"
+	]
+}

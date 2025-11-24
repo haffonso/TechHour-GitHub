@@ -1,0 +1,48 @@
+{
+	"@type":"Hierarchy",
+	"Name":"ACO.D.Ano",
+	"Elements":
+	[
+		{
+			"Name":"Total Anos",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2015",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2016",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2017",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"Total Anos",
+			"ComponentName":"2015",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Anos",
+			"ComponentName":"2016",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Anos",
+			"ComponentName":"2017",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"ACO.D.Ano.subsets/Anos Nível 0.json",
+		"ACO.D.Ano.subsets/Default.json",
+		"ACO.D.Ano.subsets/SYS - Todos do Nível 0.json",
+		"ACO.D.Ano.subsets/TESTE.json"
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"Padrão",
+	"Alias":"Descrição",
+	"Expression":"TM1SubsetAll([SYS.M.910.Cubos_Copia_Versao])"
+}

@@ -1,0 +1,17 @@
+#Region System
+#FEEDSTRINGS;
+#SKIPCHECK;
+#EndRegion
+
+
+
+['Dimensão Ano e Mês'] =S:
+IF (     DB('SYS.910.Cubos_Copia_Versao',!}Cubes,'Dimensão Ano') @<> ''
+      % DB('SYS.910.Cubos_Copia_Versao',!}Cubes,'Dimensão Mês') @<> ''
+	,''
+	,STET
+);
+
+
+
+

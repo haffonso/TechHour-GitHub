@@ -1,0 +1,16 @@
+{
+	"@type":"Hierarchy",
+	"Name":"SYS.D.900.Valor",
+	"Elements":
+	[
+		{
+			"Name":"Valor",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"SYS.D.900.Valor.subsets/Default.json",
+		"SYS.D.900.Valor.subsets/Padrão.json"
+	]
+}

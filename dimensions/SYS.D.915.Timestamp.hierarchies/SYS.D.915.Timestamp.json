@@ -1,0 +1,68 @@
+{
+	"@type":"Hierarchy",
+	"Name":"SYS.D.915.Timestamp",
+	"Elements":
+	[
+		{
+			"Name":"Cópia Atual",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2020-10-08 11h40m15s",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2020-10-02 14h23m12s",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2020-10-02 14h19m16s",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2020-10-02 14h17m19s",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2020-10-02 14h15m36s",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2020-10-02 14h02m23s",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2020-10-02 14h01m17s",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2020-10-02 13h58m51s",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2020-10-02 13h56m26s",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2020-10-02 13h50m43s",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2020-10-01 17h29m54s",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2020-10-01 17h26m50s",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2020-10-01 17h24m49s",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"SYS.D.915.Timestamp.subsets/Default.json",
+		"SYS.D.915.Timestamp.subsets/Padrão.json"
+	]
+}

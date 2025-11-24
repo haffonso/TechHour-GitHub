@@ -1,0 +1,32 @@
+{
+	"@type":"Hierarchy",
+	"Name":"SYS.M.910.Cubos_Copia_Versao",
+	"Elements":
+	[
+		{
+			"Name":"Copia Versão (S/N)",
+			"Type":"String"
+		},
+		{
+			"Name":"Dimensão Versão",
+			"Type":"String"
+		},
+		{
+			"Name":"Dimensão Ano",
+			"Type":"String"
+		},
+		{
+			"Name":"Dimensão Mês",
+			"Type":"String"
+		},
+		{
+			"Name":"Dimensão Ano e Mês",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"SYS.M.910.Cubos_Copia_Versao.subsets/Default.json",
+		"SYS.M.910.Cubos_Copia_Versao.subsets/Padrão.json"
+	]
+}

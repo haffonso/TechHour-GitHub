@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"processo.CUB.100.Carrega_ACO.300.Despesas.Leitura.2017-03-09 11h31m06s",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('ACO.M.200.Despesas')/Hierarchies('ACO.M.200.Despesas')/Elements('Valor Despesas')"
+		}
+	]
+}
